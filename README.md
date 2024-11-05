@@ -1,7 +1,7 @@
 <div align="center">
   <img width="600" src="assets/spotube_banner.png" alt="Spotube Logo">
 
-An open source, cross-platform Spotify client compatible across multiple platforms<br />
+An *open* _source_, cross-platform Spotify client compatible across multiple platforms<br />
 utilizing Spotify's data API and YouTube, Piped.video or JioSaavn as an audio source,<br />
 eliminating the need for Spotify Premium
 
